@@ -1,1 +1,1 @@
-"# mediumTutorial" 
+Medium Tutorial
